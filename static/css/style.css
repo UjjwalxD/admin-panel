@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    gap: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
